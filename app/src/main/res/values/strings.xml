@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouTube Transcript</string>
+    <string name="hint_youtube_url">YouTube URL or Video ID</string>
+    <string name="fetch_transcript">Fetch Transcript</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="error_invalid_url">Invalid YouTube URL or video ID.</string>
+    <string name="error_no_captions">No captions available for this video.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_parse">Failed to parse transcript data.</string>
+    <string name="transcript_saved">Transcript saved to Downloads.</string>
+    <string name="chooser_share">Share transcript via…</string>
+</resources>

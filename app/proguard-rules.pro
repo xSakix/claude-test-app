@@ -1,0 +1,7 @@
+-dontwarn okhttp3.**
+-keep class okhttp3.** { *; }
+-dontwarn okio.**
+-keep class okio.** { *; }
+-keep class javax.xml.** { *; }
+-keep class org.w3c.dom.** { *; }
+-keep class org.xml.sax.** { *; }
